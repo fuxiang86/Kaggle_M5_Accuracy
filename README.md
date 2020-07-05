@@ -14,7 +14,7 @@ How I did th prediction:
 
 My results were luckily fine, it gives me confidence for the future of data science career ! I believe I can do that better next time !
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+![](/Kaggle_M5_result.png)
 
 
 
