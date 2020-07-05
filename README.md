@@ -1,37 +1,21 @@
 # Kaggle_M5_Accuracy
 My first competition in kaggle, resulted in top 34%
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  
-* [Usage](#usage)
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This is one of the two complementary competitions that together comprise the M5 forecasting challenge. It is to estimate, as precisely as possible, the point forecasts of the unit sales of various products sold in the USA by Walmart. (link: https://www.kaggle.com/c/m5-forecasting-accuracy) I used 5 days to do this project and finished at 1855/5558 (top 33%), I learned a lot from this competition (especially the time is very necessary ! ), and feel fulfilled with my outcomes. I think I can do better job next time.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+How I did th prediction:
+* I read some samples of the data, understanding its structure and valid information;
+* I ploted figures for the data and selected the related ones for modelling;
+* I separate the time period, prices (this part I don't have time to finish), and the locations.
+* And I planed to do models for evaluation and validation, respectively, but I got busy during the competition ~
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+My results were luckily fine, it gives me confidence for the future of data science career ! I believe I can do that better next time !
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
